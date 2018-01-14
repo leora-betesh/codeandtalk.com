@@ -66,7 +66,3 @@ s.quit()
 # with open ("file.txt", "wb") as fout:
 #     fout.write (bytes(msg))
 
-
-
-
-
