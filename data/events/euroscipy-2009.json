@@ -1,0 +1,28 @@
+{
+    "accessibility": "",
+    "cfp_end": "",
+    "code_of_conduct": "",
+    "comment": "",
+    "diversitytickets": "",
+    "diversitytickets_text": "",
+    "diversitytickets_url": "",
+    "event_end": "2009-07-26",
+    "event_start": "2009-07-25",
+    "facebook": "",
+    "hashtag": "",
+    "languages": [
+        "English"
+    ],
+    "location": {
+        "city": "Leipzig",
+        "country": "Germany",
+        "state": ""
+    },
+    "name": "EuroSciPy",
+    "tags": [
+        "python"
+    ],
+    "twitter": "",
+    "website": "http://archive.euroscipy.org/conference/euroscipy2009",
+    "youtube": ""
+}

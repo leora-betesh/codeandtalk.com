@@ -77,6 +77,11 @@
         "description": "",
         "name": "Austrian Perl Workshop"
     },
+    "bangbangcon": {
+        "comment": "",
+        "description": "Ten Minute Talks",
+        "name": "!!Con"
+    },
     "barcelona-perl-workshop": {
         "comment": "",
         "description": "",
@@ -388,6 +393,16 @@
         "description": "",
         "name": "Eclipse Summit India"
     },
+    "elixerconf": {
+        "comment": "",
+        "description": "",
+        "name": "ElixerConf"
+    },
+    "elixerconf-eu": {
+        "comment": "",
+        "description": "",
+        "name": "ElixerConf EU"
+    },
     "elm": {
         "comment": "",
         "description": "",
@@ -427,6 +442,11 @@
         "comment": "",
         "description": "",
         "name": "European Testing Conference"
+    },
+    "euroscipy": {
+        "comment": "",
+        "description": "Scientific Python in Europe",
+        "name": "EuroSciPy"
     },
     "eurostar": {
         "comment": "",
@@ -703,6 +723,11 @@
         "description": "",
         "name": "London Perl Workshop",
         "twitter": "londonperl"
+    },
+    "lonestar-elixirconf": {
+        "comment": "",
+        "description": "",
+        "name": "Lonestar ElixerConf"
     },
     "meetingcpp": {
         "comment": "",
@@ -1061,6 +1086,11 @@
         "description": "",
         "name": "RuhrJS"
     },
+    "rustbelt-refresh": {
+        "comment": "",
+        "description": "Single-Day Workshop",
+        "name": "Rustbelt Refresh"
+    },
     "rustfest": {
         "comment": "",
         "description": "",
@@ -1200,6 +1230,12 @@
         "comment": "",
         "description": "",
         "name": "Women In Tech Summit"
+    },
+    "wordcamp": {
+        "comment": "",
+        "description": "",
+        "name": "Wordcamp",
+        "url": "https://central.wordcamp.org/"
     },
     "writethedocs": {
         "comment": "",

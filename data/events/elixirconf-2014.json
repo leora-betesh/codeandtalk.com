@@ -1,0 +1,28 @@
+{
+    "accessibility": "",
+    "cfp_end": "",
+    "code_of_conduct": "",
+    "comment": "",
+    "diversitytickets": "",
+    "diversitytickets_text": "",
+    "diversitytickets_url": "",
+    "event_end": "2014-07-25",
+    "event_start": "2014-07-24",
+    "facebook": "https://www.facebook.com/elixirconf/",
+    "hashtag": "elixirconf",
+    "languages": [
+        "English"
+    ],
+    "location": {
+        "city": "Austin",
+        "country": "USA",
+        "state": "Texas"
+    },
+    "name": "ElixirConf",
+    "tags": [
+        "elixir"
+    ],
+    "twitter": "ElixirConf",
+    "website": "https://elixirconf.com/",
+    "youtube": "PLE7tQUdRKcyakbmyFcmznq2iNtL80mCsT"
+}
